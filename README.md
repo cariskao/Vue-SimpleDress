@@ -8,7 +8,7 @@ Vitual Studio Code
 ## Language
 1. Vue.js
 
-## Development process
+## Features
 1. The entire project is created with Vue.  There are some features:
 
     (1). Use ajax to get, put or post data to back-end database.
