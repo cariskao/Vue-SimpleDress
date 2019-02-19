@@ -9,8 +9,10 @@ Vitual Studio Code
 1. Vue.js
 
 ## Development process
-1. The entire project is created with Vue. For this porject, it based on a simple online shopping website. There are some features:
+1. The entire project is created with Vue.  There are some features:
+
     (1). Use ajax to get, put or post data to back-end database.
+    
     (2). This shopping website includes: view(customer side) and admin(administrater side).
     
         1). VIEW: 
