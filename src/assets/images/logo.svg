@@ -1,0 +1,28 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000" transform="matrix(1.2372299432754517,0,0,1.4814814329147339,-76.9403426963836,-65.68459985591471) " xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="24" id="svg_1" y="173.296876" x="199.995432" stroke-width="0" fill="#c6ae31">Simple Dress</text>
+  <text stroke="#000" transform="matrix(0.8229166865348816,0,0,0.6610169410705566,53.74478563666344,81.32945109158754) " opacity="0.5" xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="24" id="svg_2" y="197.114182" x="224.512658" stroke-width="0" fill="#c6ae31">簡單打扮</text>
+  <g stroke="null" id="svg_30">
+   <g stroke="null" id="svg_25">
+    <line stroke="#c6ae31" stroke-linecap="null" stroke-linejoin="null" id="svg_3" y2="157.783225" x2="290.394967" y1="151.769672" x1="284.881535" fill="none"/>
+    <line stroke="#c6ae31" stroke-linecap="null" stroke-linejoin="null" id="svg_4" y2="161.534017" x2="285.532847" y1="157.775546" x1="289.773949" fill="none"/>
+    <line stroke="#c6ae31" stroke-linecap="null" stroke-linejoin="null" id="svg_19" y2="172.976569" x2="290.935203" y1="161.604785" x1="285.886272" fill="none"/>
+   </g>
+   <g stroke="null" id="svg_29">
+    <line stroke="#c6ae31" stroke-linecap="null" stroke-linejoin="null" id="svg_26" y2="157.783225" x2="279.703445" y1="151.769672" x1="284.881535" fill="none"/>
+    <line stroke="#c6ae31" stroke-linecap="null" stroke-linejoin="null" id="svg_27" y2="161.534017" x2="284.269838" y1="157.775546" x1="280.286692" fill="none"/>
+    <line stroke="#c6ae31" stroke-linecap="null" stroke-linejoin="null" id="svg_28" y2="172.976569" x2="279.196069" y1="161.604785" x1="283.937909" fill="none"/>
+   </g>
+  </g>
+  <ellipse stroke="#c6ae31" ry="11.40598" rx="9.014678" id="svg_31" cy="139.678074" cx="284.707016" stroke-width="0" fill="#c6ae31"/>
+ </g>
+</svg>

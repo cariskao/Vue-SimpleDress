@@ -1,0 +1,10 @@
+// variables的載入函式
+@import "~bootstrap/scss/functions";
+@import "./helpers/variables";
+@import "~bootstrap/scss/bootstrap";
+@import "./dashboard";
+@import "./mixin";
+* {
+  font-family: "微軟正黑體", Futura, Arial, Helvetica, sans-serif;
+  outline: none;
+}
